@@ -1,0 +1,3 @@
+test3
+added a new line to c.txt
+added one more line
